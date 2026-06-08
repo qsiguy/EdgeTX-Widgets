@@ -47,8 +47,8 @@ Pitch telemetry value must be named "Ptch" and roll must be named
 or if another name is desired, edit lines 244 & 245 with your actual
 pitch and roll telemetry names.
 
-NOTE: AttInd will display the current flight mode from telemetry value "FM" although
-it has been intentionally disabled by commenting out the relevant code lines as it "clutters"
-the instrument. If you wish to enable it, un-comment lines 364 -> 369 and ensure your flight
-mode telemetry value is named "FM".
+NOTE: AttInd will display the current flight mode from telemetry value "FM" centered at
+the top of the display although it has been intentionally disabled by commenting out the
+relevant code lines as it "clutters" the instrument. If you wish to enable it, un-comment
+lines 364 -> 369 and ensure your flight mode telemetry value is named "FM".
 
