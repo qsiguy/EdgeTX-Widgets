@@ -29,7 +29,7 @@
 --                                                                       --
 -- Pitch telemetry value must be named "Ptch" and roll must be named	 --
 -- "Roll". Telemetry value can be renamed in the radio telemetry list	 --
--- or if another name is desired, edit lines 243 & 244 below with your	 --
+-- or if another name is desired, edit lines 244 & 245 below with your	 --
 -- actual pitch and roll telemetry names.								 --
 ---------------------------------------------------------------------------
 
