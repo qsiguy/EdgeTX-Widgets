@@ -23,7 +23,7 @@ Put in /WIDGETS/AttInd/
 
 Requires pitch and roll telemetry value from receivers such as the
 HelloRadio HR7EG, HR8EG, and other DIY ELRS gyro receivers like the BetaFPV SuperP, using the
-MPU6050 or LSM6DXX IMU (Inertial Measurement Unit)
+MPU6050 or LSM6DXX IMU (Inertial Measurement Unit) *Does NOT work with Spektrum DSMX gyro receivers.
 
 <img width="480" height="272" alt="Half Screen Widget" src="https://github.com/user-attachments/assets/bd9441aa-586f-47fa-94e4-1e8504633b78" />
 
