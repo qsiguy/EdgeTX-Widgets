@@ -44,8 +44,8 @@ Minimum Telemetry Ratio Settings
 
 Pitch telemetry value must be named "Ptch" and roll must be named
 "Roll". Telemetry value can be renamed in the radio telemetry list
-or if another name is desired, edit lines 243 & 244 below with your
-actual pitch and roll telemetry names.
+or if another name is desired, edit lines 244 & 245 with your actual
+pitch and roll telemetry names.
 
 NOTE: AttInd will display the current flight mode from telemetry value "FM" although
 it has been intentionally disabled by commenting out the relevant code lines as it "clutters"
