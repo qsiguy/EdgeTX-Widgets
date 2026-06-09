@@ -42,7 +42,8 @@ Minimum Telemetry Ratio Settings
 
 <img width="480" height="272" alt="333Hz_1 16 telemetry" src="https://github.com/user-attachments/assets/80126713-919d-4dec-b00f-4022783c5f0b" />
 
-Telemetry values for "Ptch" and "Roll" default to "rad" units and must be set to "°" (degree) for the Widget to work.
+
+**Telemetry values for "Ptch" and "Roll" default to "rad" units and must be set to ' ° ' (degree) for the Widget to work**
 
 <img width="480" height="272" alt="Telemetry edit 01" src="https://github.com/user-attachments/assets/a91b3550-712f-417d-aa51-8d01e989adce" />
 
