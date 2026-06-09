@@ -42,6 +42,18 @@ Minimum Telemetry Ratio Settings
 
 <img width="480" height="272" alt="333Hz_1 16 telemetry" src="https://github.com/user-attachments/assets/80126713-919d-4dec-b00f-4022783c5f0b" />
 
+Telemetry values for "Ptch" and "Roll" default to "rad" units and must be set to "°" (degree) for the Widget to work.
+
+<img width="480" height="272" alt="Telemetry edit 01" src="https://github.com/user-attachments/assets/a91b3550-712f-417d-aa51-8d01e989adce" />
+
+<img width="480" height="272" alt="Telemetry edit 02" src="https://github.com/user-attachments/assets/a3a74ea0-1350-4230-85ea-67d9a2d01f8b" />
+
+<img width="480" height="272" alt="Telemetry edit 03" src="https://github.com/user-attachments/assets/54cff2e7-12c8-4e35-b8fc-ed942d7077fa" />
+
+<img width="480" height="272" alt="Telemetry edit 04" src="https://github.com/user-attachments/assets/1036388f-eeb8-4468-8957-126b5e5691c4" />
+
+<img width="480" height="272" alt="Telemetry edit 05" src="https://github.com/user-attachments/assets/9262684f-0f24-49ea-8654-4667ad326073" />
+
 Pitch telemetry value must be named "Ptch" and roll must be named
 "Roll". Telemetry value can be renamed in the radio telemetry list
 or if another name is desired, edit lines 244 & 245 with your actual
