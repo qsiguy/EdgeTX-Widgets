@@ -1,6 +1,8 @@
-Title: Artificial Horizon/Attitude Indicator Widget "AttInd"
-Author: Shane Christopherson
-Date: 2026-05-29
+<img width="480" height="272" alt="Large screen widget" src="https://github.com/user-attachments/assets/07acfa4c-0c70-428e-8208-a765f3c0c9c1" />
+
+Title: Artificial Horizon/Attitude Indicator Widget "AttInd"  
+Author: Shane Christopherson  
+Date: 2026-05-29  
 Version: 1.2.0
 
 Source: https://github.com/qsiguy/EdgeTX-Widgets
