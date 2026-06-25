@@ -29,6 +29,8 @@ altitude telemetry available, from an ERS-GPS for example, and gyro flight mode 
 "Full screen". Half screen widget size is good for minimal size but does not show the speed or altitude. You will see an "A" in the upper right
 when in "Auto-Level" mode while in a half screen widget window.
 
+Widget confirmed functional as of 6/25/2026 with HelloRadio V16R, Radiomaster TX16S Mk1 Mk2 & Mk3, and TX15 and with EdgeTX versions 2.11.4, 2.12.0, and 2.12.1
+
 Requires pitch and roll telemetry value from receivers such as the
 HelloRadio HR7EG, HR8EG, and other DIY ELRS gyro receivers like the BetaFPV SuperP and Radiomaster ER6/ER8, using the
 MPU6050 or LSM6DXX IMU (Inertial Measurement Unit)  
