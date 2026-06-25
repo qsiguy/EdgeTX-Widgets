@@ -68,7 +68,7 @@ Minimum Telemetry Ratio Settings
 Pitch telemetry value must be named "Ptch", roll must be named
 "Roll", flight mode must be "FM", speed must be "GSPd", and altitude must be "GAlt".
 Telemetry names can be renamed in the radio telemetry list
-or if another name is desired, edit lines 244 - 248 with your actual
+or if another name is desired, edit lines 244 - 248 of the main.lua with your actual
 telemetry names.
 
 
