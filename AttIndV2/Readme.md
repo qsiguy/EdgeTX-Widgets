@@ -24,7 +24,7 @@ GNU General Public License for more details.
 
 Put in /WIDGETS/AttIndV2/
 
-This version 2 of the "AttIndV2" widget adds GPS speed (GSpd) left of the roll arc, GPS altitude (GAlt) right of the roll arc if you have speed and
+This version 2, "AttIndV2", widget adds GPS speed (GSpd) left of the roll arc, GPS altitude (GAlt) right of the roll arc if you have speed and
 altitude telemetry available, from an ERS-GPS for example, and gyro flight mode (FM) in the upper right when using widget window "App mode" or
 "Full screen". Half screen widget size is good for minimal size but does not show the speed or altitude. You will see an "A" in the upper right
 when in "Auto-Level" mode while in a half screen widget window.
