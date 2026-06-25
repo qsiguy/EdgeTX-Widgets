@@ -1,3 +1,5 @@
+<img width="480" height="272" alt="AttIndV2 Full01" src="https://github.com/user-attachments/assets/99f9e8ae-369c-4a25-abcb-931ead046381" />
+
 =================================================================  
 Title: Artificial Horizon/Attitude Indicator Widget "AttIndV2"  
 Author: Shane Christopherson  
