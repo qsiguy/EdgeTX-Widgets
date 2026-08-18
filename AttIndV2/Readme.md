@@ -28,6 +28,7 @@ If you've found this helpful please consider donating to help us keep creating g
 
 http://paypal.me/shanesdiy
 
+
 Put in /WIDGETS/AttIndV2/
 
 This version 2, "AttIndV2", widget adds GPS speed (GSpd) left of the roll arc, GPS altitude (GAlt) right of the roll arc if you have speed and
