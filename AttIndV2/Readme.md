@@ -24,7 +24,9 @@ GNU General Public License for more details.
 
 =================================================================
 
-**NOTE: As of 8/15/2026 new gyro release version 1.18 the telemetry response slowed down so the widget response is not as smooth. The cause is under investigation and I will update this note if a solution is found.**
+If you've found this helpful please consider donating to help us keep creating great content like this!  Thank you!
+
+http://paypal.me/shanesdiy
 
 Put in /WIDGETS/AttIndV2/
 
