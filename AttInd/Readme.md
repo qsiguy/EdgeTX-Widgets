@@ -21,6 +21,9 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
+If you've found this helpful please consider donating to help us keep creating great content like this!  Thank you!
+http://paypal.me/shanesdiy
+
 Put in /WIDGETS/AttInd/
 
 Requires pitch and roll telemetry value from receivers such as the
